@@ -1,0 +1,15 @@
+{
+  "name": "jkt48-live-checker",
+  "version": "1.0.0",
+  "description": "Cek siapa saja member JKT48 yang sedang live menggunakan @jkt48connect/cli.",
+  "main": "liveChecker.js",
+  "type": "module",
+  "scripts": {
+    "start": "node liveChecker.js"
+  },
+  "dependencies": {
+    "@jkt48connect/cli": "^3.0.11"
+  },
+  "author": "zenova",
+  "license": "MIT"
+}
