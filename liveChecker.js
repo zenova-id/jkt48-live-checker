@@ -1,4 +1,4 @@
-import { getLive } from "@jkt48connect/cli";
+import { getLive } from "@jkt48connect-corp/sdk";
 import fs from "fs";
 
 // Load API key dari config.json
